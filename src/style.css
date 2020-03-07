@@ -1,15 +1,21 @@
+.image-time-wrapper {
+  display: inline-flex;
+}
+
+.time-wrapper {
+  display flex;
+  padding-left: 20px;
+}
+
 /* ----------------------- */
 /* IMAGE RELATED STYLING */
 /*-------------------------*/
 
-* {
-  box-sizing: border-box;
-}
 /* Container needed to position the overlay. Adjust the width as needed */
 .image-container {
   position: relative;
-  width: 50%;
-  max-width: 300px;
+  width: 60%;
+  max-width: 400px;
 }
 
 /* Make the image responsive */
@@ -31,7 +37,7 @@
   opacity: 0;
   color: white;
   font-size: 20px;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
 }
 
