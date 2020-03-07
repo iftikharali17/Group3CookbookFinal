@@ -56,3 +56,12 @@ justify-content: space-between;
 .image-container:hover .overlay {
   opacity: 1;
 }
+
+.ingredients {
+padding-top: 20px;
+  
+}
+.instructions {
+  padding-top: 20px;
+    
+  }
