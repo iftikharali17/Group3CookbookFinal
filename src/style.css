@@ -8,6 +8,12 @@ justify-content: space-between;
   border-left: solid 30px; border-color: transparent;
 }
 
+.overview-wrapper {
+ border: solid 1px black;
+ padding: 20px;
+
+}
+
 
 .image-time-wrapper {
   display: inline-flex;
