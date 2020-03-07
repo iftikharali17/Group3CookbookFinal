@@ -4,7 +4,7 @@ display:flex;
 justify-content: space-between;
 }
 
-#time-element p {
+.time-element p {
   border-left: solid 30px; border-color: transparent;
 }
 
